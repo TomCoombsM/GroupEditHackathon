@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hachathon.Loamp.WebService", "Hachathon.Loamp.WebService\Hachathon.Loamp.WebService.csproj", "{ABEAABC1-239C-4251-BDCB-FFB35AE86AA7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hackathon.Loamp.ImageRender", "..\Hackathon.Loamp.ImageRender\Hackathon.Loamp.ImageRender.csproj", "{E4CF6F6B-60B0-4501-8CE5-13FB775A21EC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{ABEAABC1-239C-4251-BDCB-FFB35AE86AA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ABEAABC1-239C-4251-BDCB-FFB35AE86AA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ABEAABC1-239C-4251-BDCB-FFB35AE86AA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4CF6F6B-60B0-4501-8CE5-13FB775A21EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4CF6F6B-60B0-4501-8CE5-13FB775A21EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4CF6F6B-60B0-4501-8CE5-13FB775A21EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4CF6F6B-60B0-4501-8CE5-13FB775A21EC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
